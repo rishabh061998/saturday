@@ -1,0 +1,15 @@
+{"user":[{
+    "id":1,
+    "country":"India",
+    "city":"delhi",
+    "population":1900000
+},
+{
+    "id":2,
+    "country":"India",
+    "city":"mumbai",
+    "population":1900067
+}
+
+]
+}
